@@ -1,19 +1,17 @@
 cff-version: 1.2.0
-title: Amlal's Working Talks.
-message: Amlal's Working Talks.
+title: Publications at Ne.app
+message: Publications at Ne.app
 type: collection
 authors:
   - given-names: Amlal
     family-names: El Mahrouss
-    email: amlal@nekernel.org
+    email: amlal@ne-app.eu
 identifiers:
   - type: url
-    value: 'https://amlal.nekernel.org'
-    description: Amlal's Working Talks.
-repository-code: 'https://github.com/amlel-el-mahrouss/talks'
-url: 'https://amlal.nekernel.org'
-abstract: >-
-  Working Book by Amlal El Mahrouss.
+    value: 'https://pub.ne-app.eu'
+    description: Publications at Ne.app
+repository-code: 'https://github.com/publications-and-more/conference_pub'
+url: 'https://pub.ne-app.eu'
 keywords:
   - cs
   - it
